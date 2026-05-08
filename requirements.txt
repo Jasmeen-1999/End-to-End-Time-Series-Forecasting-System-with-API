@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+xgboost
+statsmodels
+prophet
+tensorflow
+fastapi
+uvicorn
+openpyxl
+joblib
